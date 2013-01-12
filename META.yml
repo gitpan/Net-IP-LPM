@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Net-IP-LPM
-version:            0.01_03
+version:            0.02
 abstract:           Perl implementation of Longest Prefix Match algorithm
 author:
     - Tomas Podermanski <tpoder@cis.vutbr.cz>
